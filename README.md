@@ -23,7 +23,7 @@
 
 - :telescope: I am a enthusiastic computer science student and passionate android app developer and backend developer with good engineering skills.
 
-- :seedling: Currently exploring AI/ML and solidifying my android and backend skills.g.
+- :seedling: Currently exploring AI/ML and solidifying my android and backend skills.
 
 - :zap: In my free time, I solve problems on Leetcode and compete on codeforces.
 
