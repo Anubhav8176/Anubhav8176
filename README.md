@@ -2,7 +2,7 @@
 
 ## 🚀 About Me
 
-🎓 **B.Tech CSE Graduate** from IERT with an outstanding **9.1 GPA** (2020-2024)
+🎓 **B.Tech CSE Graduate** from **IERT** (2020-2024)
 
 💼 Completed two impactful **Android development internships** at an **AI Start-Up** and **Adgama Digital Pvt Ltd**, building production-ready applications from scratch
 
