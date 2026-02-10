@@ -71,11 +71,11 @@
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black"/>
   </a>
 
-  <a href="https://codeforces.com/profile/YOUR_CODEFORCES_USERNAME" target="_blank">
+  <a href="https://codeforces.com/profile/anubhavsingh08" target="_blank">
     <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=flat&logo=codeforces&logoColor=white"/>
   </a>
 
-  <a href="https://www.codechef.com/users/YOUR_CODECHEF_USERNAME" target="_blank">
+  <a href="https://www.codechef.com/users/anubhavsingh81" target="_blank">
     <img src="https://img.shields.io/badge/CodeChef-5B4638?style=flat&logo=codechef&logoColor=white"/>
   </a>
 </div>
