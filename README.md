@@ -1,37 +1,57 @@
-<h1>
-  Hello !
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
+# 👋 Hi there, I'm Anubhav Singh
 
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-</div>
-<div id="badges">
- <a href="https://www.linkedin.com/in/anubhav-singh-133358277/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="https://leetcode.com/u/anubhavsingh08/">
-    <img src="https://img.shields.io/badge/Leetcode-black?style=for-the-badge&logo=leetcode&logoColor=white" alt="Leetcode Badge"/>
-  </a>
-  <a href="https://codeforces.com/profile/anubhavsingh08">
-    <img src="https://img.shields.io/badge/Codeforces-red?style=for-the-badge&logo=codeforcesr&logoColor=white" alt="Codeforces Badge"/>
-  </a>
-</div>
+<!-- About Section -->
+## 🚀 About Me
+<!--
+Write about yourself here.
+Example:
+- Passionate software developer
+- Interested in backend, Android, system design, etc.
+- Currently learning / working on XYZ
+-->
+
 ---
 
-### :man_technologist: About Me :
+## 🌐 Connect With Me
 
-- :telescope: I am a enthusiastic computer science student and passionate android app developer and backend developer with good engineering skills.
+<p align="left">
+  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
 
-- :seedling: Currently exploring AI/ML and solidifying my android and backend skills.
+  <a href="https://leetcode.com/YOUR_LEETCODE_USERNAME" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+  </a>
 
-- :zap: In my free time, I solve problems on Leetcode and compete on codeforces.
+  <a href="https://codeforces.com/profile/YOUR_CODEFORCES_USERNAME" target="_blank">
+    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/>
+  </a>
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/anubhav-singh-133358277/)
+  <a href="https://www.codechef.com/users/YOUR_CODECHEF_USERNAME" target="_blank">
+    <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
+  </a>
 
+  <a href="https://twitter.com/YOUR_TWITTER_USERNAME" target="_blank">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
+  </a>
+</p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Anubhav8176&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+---
 
+## 🧑‍💻 Languages Used Across My GitHub
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Anubhav8176)](https://github.com/anuraghazra/github-readme-stats)
+---
+
+## 📊 GitHub Stats (Optional but recommended)
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+⭐ *Feel free to check out my repositories and connect with me!*
