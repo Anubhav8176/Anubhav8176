@@ -24,7 +24,7 @@
 <table>
 <tr>
 
-<td valign="top" width="33%">
+<td valign="top" width="53%">
 
 ### 🎨 Frontend
 <div align="center">
