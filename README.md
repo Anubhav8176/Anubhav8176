@@ -1,94 +1,124 @@
-# Hi, I'm Anubhav Singh
+# 👋 Hi, I'm Anubhav Singh
 
-## About Me:
+## 🚀 About Me
 
+- Actively participating in international events and hackathons  
+- Currently learning **Data Structures & Algorithms in C++**  
+  *(Solved 170+ LeetCode problems so far)*  
+- Pursuing **BS Computer Science** from **NUML**  
+  *(CGPA: 4.0/4.0, currently in 5th semester)*  
+- Selected for **Stanford Code in Place**, where I taught Python to international students  
+- Typing speed: **80 WPM**  
+- Winner of **Speed Programming Competition** at Beaconhouse International College  
+- Winner of **CS50x Puzzle Day** (Solved all 9/9 puzzles)  
+- District topper in **IKLC (International Kangaroo Linguistic Contest)**  
+- Aspiring **Full Stack Developer** (currently strong in Frontend)  
+- **Trainer @ iCodeGuru** (Data Structures & Algorithms)  
+- Winner of **Sack Race** at Punjab College (FSc I & FSc II 😄)  
+- Enjoy podcasts, gaming, sports, and learning new tech  
 
-- Actively participating in international events and hackathons. .
-- I am currently learning Data Structure And Algorithms in Cpp(I have solved 170 leet code problems till now).
-- Doing BSCS from NUML(4/4 CGPA : currently in fifth semester).
-- I got selected for the Stanford code-in-place program and taught Python to international students.
-- Typing speed 80 WPM.
-- Won speed programming competition at Beacon House International College.
-- Won CS50x puzzle day(Solved all 9 out of 9 puzzles).
-- Topped on district level in IKLC(International Kangaroo Linguistic Contest).
-- Aspiring Full Stack developer(currently knows only frontend development).
-- Trainer @icodeguru(for data structures and algorithm)
-- I won the sac race at Punjab College (Both in FSc I and Fsc II).
-- I like watching podcasts and playing games and sports.
+---
 
-## Skill Set:
+## 🛠️ Skill Set
 
-<table><tr><td valign="top" width="25%">
+<table>
+<tr>
 
-### Frontend  
-<a href="https://github.com/tayyabadev">
-<div align="center">  
-       <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js&perline=4" /> 
-</div>
-</a>
- </td><td valign="top" width="25%">
-        
-### Languages
-<a href="https://github.com/tayyabadev">
+<td valign="top" width="33%">
+
+### 🎨 Frontend
 <div align="center">
-       <img src="https://skillicons.dev/icons?i=c,js,cpp,java,python,&perline=4" /> 
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js&perline=3" />
 </div>
-</a>
 
-</td><td valign="top" width="25%">
-  
-### Others
-<a href="https://github.com/tayyabadev">
-<div align="center">
-       <img src="https://skillicons.dev/icons?i=git,github,npm,vscode,vercel,discord,vscodeqt&perline=4" /> 
-</div>
-</a>
 </td>
-</tr></table>
 
+<td valign="top" width="33%">
 
-## Connect with me:
+### 💻 Programming Languages
 <div align="center">
-    <a href="https://www.linkedin.com/in/anubhav-singh-133358277/" target="_blank"><img src="https://img.shields.io/badge/-Tayyaba%20Tabassum-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-    <a target="_blank" href="mailto:thakuranubhav623@gmail.com"><img src="https://img.shields.io/badge/thakuranubhav623@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-    <a href="https://leetcode.com/u/anubhavsingh08/" target="_blank"><img src="https://img.shields.io/badge/-Tayyaba%20Tabassum-FFA116?style=flat&logo=LeetCode&logoColor=white"/></a>
-    <a href="https://lablab.ai/u/@TayyadaDev" target="_blank"><img src="https://img.shields.io/badge/-LabLab Profile-3B5998?style=flat&logo=LabLab&logoColor=white"/></a>
-    <a href="https://medium.com/@tayyabadev" target="_blank"><img src="https://img.shields.io/badge/-Medium Profile-3B5948?style=flat&logo=Medium&logoColor=white"/></a>
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,js&perline=3" />
 </div>
 
- ## Github Stats:
-<p align="center">
-    <a href="https://github.com/tayyabadev">
-        <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Anubhav8176&show_icons=true&theme=onedark&include_all_commits=true&count_private=true&hide_border=true"/>
-        <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Anubhav8176&langs_count=12&layout=compact&langs_count=8&theme=onedark&include_all_commits=true&count_private=true&hide_border=true" />
-    </a>
-</p>
-<!-- Activity Graph -->
-<p align="center">
-  <a href="https://github.com/tayyabadev">
-    <img height=250 src="https://github-readme-activity-graph.vercel.app/graph?username=Anubhav8176&bg_color=282c34&color=FDFD96&line=FDFD96&point=FFFFFF&area_color=79FE96&border_radius=24.5&title_color=FDFD96&border_radius=20px"/>
-  </a> 
-</p>
+</td>
 
+<td valign="top" width="33%">
 
- <p align="center">
-   <a href="https://github.com/tayyabadev"> 
-     <img width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=Anubhav8176&show_icons=true&locale=en&layout=demo&theme=Onedark&hide_border=true" /> 
-   </a>  
- </p>
-
-<br>
-
-<div id="header" align="center">
-  
-  <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Anubhav8176" alt="Anubhav8176" /></a> </p>
-  
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
-  <img src="https://komarev.com/ghpvc/?username=tayyabdev&style=for-the-badge&color=orange" alt=""/>
+### ⚙️ Tools & Platforms
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,npm,vscode,vercel,discord&perline=3" />
 </div>
 
-<h2  align="center">💻 Check Out My Repos ⬇️ </h2>
+</td>
 
+</tr>
+</table>
 
+---
 
+## 🌐 Connect With Me
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/anubhav-singh-133358277/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/>
+  </a>
+
+  <a href="mailto:thakuranubhav623@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white"/>
+  </a>
+
+  <a href="https://leetcode.com/u/anubhavsingh08/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black"/>
+  </a>
+
+  <a href="https://codeforces.com/profile/YOUR_CODEFORCES_USERNAME" target="_blank">
+    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=flat&logo=codeforces&logoColor=white"/>
+  </a>
+
+  <a href="https://www.codechef.com/users/YOUR_CODECHEF_USERNAME" target="_blank">
+    <img src="https://img.shields.io/badge/CodeChef-5B4638?style=flat&logo=codechef&logoColor=white"/>
+  </a>
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Anubhav8176&show_icons=true&theme=onedark&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=Anubhav8176&layout=compact&theme=onedark&hide_border=true"/>
+</p>
+
+---
+
+## 📈 Contribution Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Anubhav8176&theme=onedark&hide_border=true"/>
+</p>
+
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Anubhav8176&theme=onedark&hide_border=true"/>
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Anubhav8176&theme=onedark&no-frame=true&row=1&column=6"/>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Anubhav8176&style=for-the-badge&color=orange" alt="Profile Views"/>
+</p>
+
+---
+
+<h2 align="center">💻 Check Out My Repositories ⬇️</h2>
