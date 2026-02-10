@@ -85,7 +85,7 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Anubhav8176&show_icons=true&theme=onedark&hide_border=true"/>
+  <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Anubhav8176&show_icons=true&theme=onedark&hide_border=true"/> -->
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=Anubhav8176&layout=compact&theme=onedark&hide_border=true"/>
 </p>
 
@@ -103,14 +103,6 @@
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Anubhav8176&theme=onedark&hide_border=true"/>
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Anubhav8176&theme=onedark&no-frame=true&row=1&column=6"/>
 </p>
 
 ---
