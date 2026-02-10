@@ -34,7 +34,7 @@
 ### Technologies 
 <a href="https://github.com/tayyabadev">
 <div align="center">  
-       <img src="https://skillicons.dev/icons?i=androidstudio,spring,kafka,docker,react&perline=4" /> 
+       <img src="https://skillicons.dev/icons?i=androidstudio,spring,kafka,docker,react,maven&perline=4" /> 
 </div>
 </a>
 
@@ -52,7 +52,7 @@
 ### Others
 <a href="https://github.com/tayyabadev">
 <div align="center">
-       <img src="https://skillicons.dev/icons?i=git,github,vscode,kali,idea,hibernate,gradle&perline=4" /> 
+       <img src="https://skillicons.dev/icons?i=git,github,vscode,kali,idea,hibernate,gradle,&perline=4" /> 
 </div>
 </a>
 
