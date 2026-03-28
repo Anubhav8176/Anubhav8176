@@ -32,7 +32,7 @@
 <table><tr><td valign="top" width="25%">
 
 ### Technologies 
-<a href="https://github.com/tayyabadev">
+<a href="https://github.com/Anubhav8176">
 <div align="center">  
        <img src="https://skillicons.dev/icons?i=androidstudio,spring,kafka,docker,react,maven&perline=4" /> 
 </div>
@@ -41,7 +41,7 @@
  </td><td valign="top" width="25%">
         
 ### Languages
-<a href="https://github.com/tayyabadev">
+<a href="https://github.com/Anubhav8176">
 <div align="center">
        <img src="https://skillicons.dev/icons?i=js,cpp,java,python,kotlin,html,mysql&perline=4" /> 
 </div>
@@ -50,7 +50,7 @@
 </td><td valign="top" width="25%">
   
 ### Others
-<a href="https://github.com/tayyabadev">
+<a href="https://github.com/Anubhav8176">
 <div align="center">
        <img src="https://skillicons.dev/icons?i=git,github,vscode,kali,idea,hibernate,gradle,&perline=4" /> 
 </div>
