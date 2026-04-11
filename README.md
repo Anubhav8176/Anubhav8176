@@ -10,7 +10,7 @@
 
 📱 Specialized in **modern Android development** using **Jetpack Compose**, **Kotlin**, and clean architecture patterns (**MVVM/MVI**)
 
-⚙️ Experienced in **full-stack development** - proficient in building scalable backend systems with **Spring Boot**, **Apache Kafka**, **Docker**, and microservices architecture
+⚙️ Experienced in **full-stack development** - proficient in building scalable backend systems with **Spring Boot**, **FastAPI**, **Apache Kafka**, **Docker**, and microservices architecture
 
 🌐 Expanding into **Frontend Web Development** with hands-on experience in **React**, **HTML/CSS**, and **JavaScript**, building responsive and modern web applications
 
@@ -18,6 +18,7 @@
 - **Ani-Weeb**: Anime & Manga tracker with Firebase integration and smooth Jetpack Compose UI
 - **Crypto Tracker**: Real-time cryptocurrency app with clean MVI architecture
 - **Task Management API**: Microservices-based backend with JWT authentication and Kafka messaging
+- **Todo List API**: RESTful API built with FastAPI featuring JWT authentication, SQLAlchemy ORM, and full CRUD operations
 - **Frontend Web Projects**: Multiple responsive web applications showcasing modern UI/UX principles
 
 🌱 Currently diving deeper into **advanced DSA**, exploring **distributed systems**, mastering **React** and modern frontend frameworks, and building scalable mobile & backend solutions
@@ -34,7 +35,7 @@
 ### Technologies 
 <a href="https://github.com/Anubhav8176">
 <div align="center">  
-       <img src="https://skillicons.dev/icons?i=androidstudio,spring,kafka,docker,react,maven&perline=4" /> 
+       <img src="https://skillicons.dev/icons?i=androidstudio,spring,fastapi,kafka,docker,react,maven&perline=4" /> 
 </div>
 </a>
 
